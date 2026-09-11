@@ -1,61 +1,63 @@
 # Exercícios HTML e CSS
+# HTML and CSS Exercises
 
-Este repositório contém uma coleção de exercícios e atividades desenvolvidos durante meus estudos de **HTML e CSS** para aprimorar meus conhecimentos.
+This repository contains a collection of exercises and activities developed during my **HTML and CSS** studies to improve my skills.
 
-O objetivo é praticar e desenvolver conhecimentos relacionados à criação e estilização de páginas web, tornando meu conhecimento mais amplo na area de DEV.
+The goal is to practice and develop knowledge related to creating and styling web pages, broadening my knowledge in the **DEV** field.
 
-## Tecnologias utilizadas
+## Technologies Used
 
 * HTML5
 * CSS3
 
-##  Estrutura do projeto
+## Project Structure
 
-Os exercícios estão organizados em diferentes pastas, de acordo com cada atividade.
+The exercises are organized into different folders according to each activity.
 
-## Conteúdos praticados
+## Concepts Practiced
 
-Durante os exercícios, são abordados conceitos como:
+Throughout the exercises, concepts such as the following are covered:
 
-* Estrutura básica do HTML
-* Tags semânticas
-* Títulos e parágrafos
-* Links e imagens
-* Listas
-* Tabelas
-* Formulários
-* Seletores CSS
-* Cores e fontes
-* Margens e espaçamentos
+* Basic HTML structure
+* Semantic tags
+* Headings and paragraphs
+* Links and images
+* Lists
+* Tables
+* Forms
+* CSS selectors
+* Colors and fonts
+* Margins and spacing
 * `display`
 * Flexbox
-* Posicionamento de elementos
-* Responsividade
-* Estilização de páginas
-* Nada de javascript é utilizado nos exercicios
+* Element positioning
+* Responsiveness
+* Page styling
+* No JavaScript is used in the exercises
 
-## Como executar❔
+## How to Run ❔
 
-1. Clone este repositório:
+1. Clone this repository:
 
 ```bash
 git clone git@github.com:italokisame/html-css.git
 ```
 
-2. Entre na pasta do projeto:
+2. Enter the project folder:
 
 ```bash
 cd exercicios
 ```
 
-3. Abra o arquivo `index.html` de qualquer exercício no navegador.
+3. Open the `index.html` file of any exercise in your browser.
 
-Não é necessário instalar nenhuma dependência.
+No dependencies need to be installed.
 
-## Objetivo
+## Objective
 
-Este projeto faz parte da minha jornada de aprendizado em **desenvolvimento web**, servindo como forma de registrar meus exercícios, práticas e evolução com HTML5 e CSS.
+This project is part of my learning journey in **web development**, serving as a way to document my exercises, practice, and progress with HTML5 and CSS.
 
 ---
 
-🤓 Desenvolvido pelo Dev **Italo Kisame**
+🤓 Developed by Dev **Italo Kisame**
+
