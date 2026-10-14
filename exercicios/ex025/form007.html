@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>doc</title>
+</head>
+<body>
+    <h1>Formulário</h1>
+    <p>
+        <label for="iest">Estado:</label>
+        <select name="iest" id="iest">
+            <option value="sp">São Paulo</option>
+            <option value="rj" selected>Rio de Janeiro</option>
+            <option value="mg">Minas Gerais</option>
+            <option value="es">Espírito Santo</option>
+        </select>
+    </p>
+    <p>
+        <label for="prof">Profissão:</label>
+        <input type="text" name="prof" id="prof" list="profe">
+        <datalist id="profe">
+            <option value="Programador">
+            <option value="Designer">
+            <option value="Engenheiro">
+        </datalist>
+    </p>
+    <p>
+        <label for="imsg">Mensagem:</label><br>
+        <textarea name="imsg" id="imsg" cols="30" rows="10"></textarea>
+    </p>
+
+    <p>
+        <input type="submit" value="Enviar">
+        <input type="reset" value="Limpar">
+    </p>
+</body>
+</html>
