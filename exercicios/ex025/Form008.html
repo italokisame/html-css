@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NUm</title>
+</head>
+<body>
+    <h1>Exemplo form</h1>
+    <form action="ex025.php" method="post">
+        <p>
+            <label for="num1">Número1:</label>
+            <input type="number" name="num1" id="num1" min="1" max="10" required oninput="isoma.innerHTML = Number(num1.value) + Number(num2.value)">
+        </p>
+        <p>
+            <label for="num2">Número2:</label>
+            <input type="number" name="num2" id="num2" min="1" max="10" required oninput="isoma.innerHTML = Number(num1.value) + Number(num2.value)">
+        </p>
+        <p>
+            <label for="num3">Soma:</label>
+            <output name="soma" id="isoma">0</output>
+        </p>
+        <p>
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Limpar">
+        </p>
+</body>
+</html>
